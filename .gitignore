@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MVCMemberApp/FileContentIndex
+/MemberApp_MVC/.vs/MemberApp_MVC/FileContentIndex
